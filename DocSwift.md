@@ -19,8 +19,9 @@
 
 ## Language guide
 
+- [Initializer](./Swift/Initializer.md)
 - [Closure](./Swift/Closure.md)
-- 
+- [CGColor vs UIColor](./Swift/CGColor_vs_UIColor.md)
 
 [reference](https://swift.org/about/#swiftorg-and-open-source)
 
